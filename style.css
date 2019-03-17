@@ -1,0 +1,26 @@
+body {
+	background-color: #ff1997;
+	color:white;
+	font-size:60px;
+	font-family: Helvetica;
+	padding: 50px;
+}
+
+.right {
+	float:right;
+	width: 60%;
+}
+
+button{
+	background-color: #ce19ff;
+	color: white;
+	font-family: Helvetica;
+	font-size: 30px;
+	border:none;
+	padding: 10px;
+	margin: 20px;
+}
+
+button:hover{
+	background-color: #e175ff;
+}
